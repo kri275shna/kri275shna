@@ -1,48 +1,51 @@
-# Hi, I'm Krishnakant Mehra 👋
+<!-- Header -->
+<h1 align="center">Hi 👋 I'm Krishnakant Mehra</h1>
 
-🎓 Final Year B.Tech (Electronics & Communication)  
-📍 NIT Bhopal  
-💻 Backend Developer | FastAPI | Python | SQL  
-🚀 350+ LeetCode | Flipkart GRID 7.0 Semi-Finalist  
+<p align="center">
+  Backend Developer | FastAPI |C++| Python | SQL  
+  🚀 400+ LeetCode Problems | Flipkart GRID 7.0 Semi-Finalist
+</p>
 
 ---
 
-## 🔥 About Me
-- Strong in Backend Development & Data Analytics
-- Built scalable FastAPI applications with JWT & RBAC
-- Experience with PostgreSQL, Supabase & Docker
-- Passionate about solving DSA problems
+## 🔭 About Me
+- 🎓 Final Year B.Tech (ECE) at NIT Bhopal
+- 💻 Backend Development | REST APIs | Data Analytics
+- 🔐 Worked with JWT Authentication, PostgreSQL, Docker
+-📈 Passionate about building real-world applications
 
 ---
 
 ## 🛠 Tech Stack
-- Languages: C/C++, Python, MySQL
-- Frameworks: FastAPI, Pandas, NumPy
-- Concepts: DSA, DBMS, OOPS, OS
-- Tools: Git,
+
+| Backend | Database | Tools |
+|---------|----------|-------|
+| Python | PostgreSQL | Git |
+| FastAPI | Supabase | Docker |
+| Pandas | SQL | Linux |
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 AstralytiQ – No Code Analytics Platform
-- Built scalable backend using FastAPI
-- Implemented JWT Authentication & RBAC
-- Dockerized for production deployment
+### 🔹 AstralytiQ – Analytics Platform  
+A no-code analytics backend built with FastAPI and PostgreSQL  
+🔗 https://github.com/kri275shna/AstralytiQ
 
-### 🔹 Supermarket Sales Analytics
-- Analyzed 1000+ transactions
-- Built 10+ visualizations
-- Generated actionable business insights
+### 🔹 Retail Sales EDA  
+Exploratory Data Analysis on retail data using Pandas & visualizations  
+🔗 https://github.com/kri275shna/Retails-Sales-analysis-EDA
 
 ---
 
-## 🏆 Achievements
-- 350+ LeetCode Problems
-- 100+ GeeksforGeeks Problems
-- National Semi-Finalist – Flipkart GRID 7.0
-- Best Star Volunteer Award – Aaroha NGO
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/krishna-mehra)  
+📧 shrikantmehra275@gmail.com
 
 ---
 
-📫 Reach me at: shrikantmehra275@gmail.com
+## ⭐ GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kri275shna&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kri275shna&layout=compact&theme=dark)
