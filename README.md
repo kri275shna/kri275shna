@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Krishnakant Mehra 👋
 
-<!--
-**kri275shna/kri275shna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Tech (Electronics & Communication)  
+📍 NIT Bhopal  
+💻 Backend Developer | FastAPI | Python | SQL  
+🚀 350+ LeetCode | Flipkart GRID 7.0 Semi-Finalist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- Strong in Backend Development & Data Analytics
+- Built scalable FastAPI applications with JWT & RBAC
+- Experience with PostgreSQL, Supabase & Docker
+- Passionate about solving DSA problems
+
+---
+
+## 🛠 Tech Stack
+- Languages: C/C++, Python, MySQL
+- Frameworks: FastAPI, Pandas, NumPy
+- Concepts: DSA, DBMS, OOPS, OS
+- Tools: Git,
+
+---
+
+## 🚀 Projects
+
+### 🔹 AstralytiQ – No Code Analytics Platform
+- Built scalable backend using FastAPI
+- Implemented JWT Authentication & RBAC
+- Dockerized for production deployment
+
+### 🔹 Supermarket Sales Analytics
+- Analyzed 1000+ transactions
+- Built 10+ visualizations
+- Generated actionable business insights
+
+---
+
+## 🏆 Achievements
+- 350+ LeetCode Problems
+- 100+ GeeksforGeeks Problems
+- National Semi-Finalist – Flipkart GRID 7.0
+- Best Star Volunteer Award – Aaroha NGO
+
+---
+
+📫 Reach me at: shrikantmehra275@gmail.com
